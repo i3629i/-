@@ -1,0 +1,396 @@
+data:{"recentPeriod":[37231436,36748056,42233462,42010016,39802116,40027098,44113803,45630385,44655896,42731571,39447897,41856372,38578967,44980486,46204521,63563222,48101127,45339282,37700917,36926262,41435435,41130337,44391083,43909671,45590125,41762482,41339161,46705407,51633854,52269967,47203189,44138176,36262463,40255166,54714630,62082510,55326589,49633790,46652105,43919303,45386853,42595445,30513529,38047053,39594412,48754892,43021288,44754884,40737160,40352844,42352852,36486043,37849552,42149010,37705150,43973587,44317523,46140773,43931289,39611472,38565459,37846749,44556006,47934479,42509568,38822213,41330351,34064748,42308379,43840492,37501986,50374749,49763978,49332346,46951229,42991963,51046346,54435409,54105330,61182014,47033151,40205398,65118040,43146345,49333946,62596062,47596309,42622691,36121620,143947509],"today":35386651}
+event:counter
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Phorpiex.TC.awlvq","a_t":"malware","d_co":"TW","d_la":24.9389,"d_lo":121.5422,"d_s":"NWT","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":3,"a_n":"Phorpiex.TC.awlvq","a_t":"malware","d_co":"TW","d_la":24.9389,"d_lo":121.5422,"d_s":"NWT","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:counter
+data:{"recentPeriod":[37231436,36748056,42233462,42010016,39802116,40027098,44113803,45630385,44655896,42731571,39447897,41856372,38578967,44980486,46204521,63563222,48101127,45339282,37700917,36926262,41435435,41130337,44391083,43909671,45590125,41762482,41339161,46705407,51633854,52269967,47203189,44138176,36262463,40255166,54714630,62082510,55326589,49633790,46652105,43919303,45386853,42595445,30513529,38047053,39594412,48754892,43021288,44754884,40737160,40352844,42352852,36486043,37849552,42149010,37705150,43973587,44317523,46140773,43931289,39611472,38565459,37846749,44556006,47934479,42509568,38822213,41330351,34064748,42308379,43840492,37501986,50374749,49763978,49332346,46951229,42991963,51046346,54435409,54105330,61182014,47033151,40205398,65118040,43146345,49333946,62596062,47596309,42622691,36121620,143947509],"today":35386680}
+retry:10000
+
+:keep-alive
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Web Client Enforcement Violation","a_t":"exploit","d_co":"AR","d_la":-32.9543,"d_lo":-60.6621,"d_s":"S","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":7,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"GB","d_la":54.8865,"d_lo":-1.5724,"d_s":"DUR","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+:keep-alive
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":50,"a_n":"FTP Enforcement Violation","a_t":"exploit","d_co":"SI","d_la":46.0503,"d_lo":14.5046,"d_s":"061","s_co":"SI","s_lo":15,"s_la":46,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Rig ek.TC.bfm","a_t":"malware","d_co":"BT","d_la":27.5,"d_lo":90.5,"d_s":null,"s_co":"RU","s_lo":37.6068,"s_la":55.7386,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"REP.TC.zxncm","a_t":"malware","d_co":"BT","d_la":27.5,"d_lo":90.5,"d_s":null,"s_co":"BR","s_lo":-35.9763,"s_la":-7.2782,"s_s":"PB","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"REP.TC.zgwqd","a_t":"malware","d_co":"BT","d_la":27.5,"d_lo":90.5,"d_s":null,"s_co":"CN","s_lo":114.1333,"s_la":22.5333,"s_s":"GD","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":50,"a_n":"Trojan.WIN32.XMRig.A","a_t":"malware","d_co":"BT","d_la":27.5,"d_lo":90.5,"d_s":null,"s_co":"CN","s_lo":113.722,"s_la":34.7732,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":10,"a_n":"Web Client Enforcement Violation","a_t":"exploit","d_co":"AT","d_la":48.0425,"d_lo":14.4213,"d_s":"4","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":2,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"IT","d_la":44.7959,"d_lo":10.3232,"d_s":"PR","s_co":"FR","s_lo":2.0741,"s_la":49.0346,"s_s":"95","t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Web Client Enforcement Violation","a_t":"exploit","d_co":"TW","d_la":23.4815,"d_lo":120.4498,"d_s":"CYI","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Web Client Enforcement Violation","a_t":"exploit","d_co":"TW","d_la":23.4815,"d_lo":120.4498,"d_s":"CYI","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:counter
+data:{"recentPeriod":[37231436,36748056,42233462,42010016,39802116,40027098,44113803,45630385,44655896,42731571,39447897,41856372,38578967,44980486,46204521,63563222,48101127,45339282,37700917,36926262,41435435,41130337,44391083,43909671,45590125,41762482,41339161,46705407,51633854,52269967,47203189,44138176,36262463,40255166,54714630,62082510,55326589,49633790,46652105,43919303,45386853,42595445,30513529,38047053,39594412,48754892,43021288,44754884,40737160,40352844,42352852,36486043,37849552,42149010,37705150,43973587,44317523,46140773,43931289,39611472,38565459,37846749,44556006,47934479,42509568,38822213,41330351,34064748,42308379,43840492,37501986,50374749,49763978,49332346,46951229,42991963,51046346,54435409,54105330,61182014,47033151,40205398,65118040,43146345,49333946,62596062,47596309,42622691,36121620,143947509],"today":35396890}
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":5,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":9,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":10,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":14,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":11,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":8,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":2,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":6,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":9,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":9,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":9,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":7,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":7,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":7,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":8,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":2,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":8,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":10,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":5,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":6,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":11,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":3,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":18,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":5,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":7,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":5,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":11,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Web Client Enforcement Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-46.6295,"s_la":-23.6376,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":10,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":8,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":5,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":6,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":5,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":10,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":12,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":5,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":12,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"CL","s_lo":-70.6653,"s_la":-33.4513,"s_s":"RM","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":4,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":5,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"BR","d_la":-23.6376,"d_lo":-46.6295,"d_s":"SP","s_co":"BR","s_lo":-47.0565,"s_la":-22.9035,"s_s":"SP","t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":3,"a_n":"Chrome Extension Download From Third-Party Source","a_t":"exploit","d_co":"AU","d_la":-31.9471,"d_lo":115.8647,"d_s":"WA","s_co":"US","s_lo":-122.0748,"s_la":37.4043,"s_s":"CA","t":null}
+retry:10000
+
+event:attack
+data:{"a_c":3,"a_n":"Chrome Extension Download From Third-Party Source","a_t":"exploit","d_co":"AU","d_la":-31.9471,"d_lo":115.8647,"d_s":"WA","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Chrome Extension Download From Third-Party Source","a_t":"exploit","d_co":"AU","d_la":-31.9471,"d_lo":115.8647,"d_s":"WA","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":50,"a_n":"CpuMiner-Multi.TC.a","a_t":"malware","d_co":"IL","d_la":32.0123,"d_lo":34.7705,"d_s":"TA","s_co":"IL","s_lo":34.8596,"s_la":32.3348,"s_s":"M","t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":11,"a_n":"Content Protection Violation","a_t":"exploit","d_co":"IN","d_la":12.9634,"d_lo":77.5855,"d_s":"KA","s_co":"US","s_lo":-97.822,"s_la":37.751,"s_s":null,"t":null}
+retry:10000
+
+:keep-alive
+retry:10000
+
+:keep-alive
+retry:10000
+
+:keep-alive
+retry:10000
+
+event:attack
+data:{"a_c":1,"a_n":"Security Products Enforcement Violation","a_t":"exploit","d_co":"CN","d_la":23.1181,"d_lo":113.2539,"d_s":"GD","s_co":"JP","s_lo":139.7458,"s_la":35.6865,"s_s":"13","t":null}
+retry:10000
